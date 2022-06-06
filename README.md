@@ -11,7 +11,7 @@
 ### <p align="center">🦋 Playlist-Follow 🦋</p>
 <p align="center">
 <strong>
-**Spotify-Playlist-Follow** like all the playlists you want on spotify!
+Spotify-Playlist-Follow like all the playlists you want on spotify!
 <img src="https://media.discordapp.net/attachments/978420636953223198/983407483404054588/unknown.png?width=979&height=467">
 </strong>
 </p>
