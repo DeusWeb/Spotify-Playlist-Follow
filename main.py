@@ -1,3 +1,4 @@
+# script base https://github.com/useragents/Proxyless-Spotify-Follow-Bot
 from colorama import Back, Fore, Style
 from follow_bot import spotify
 import threading, os, time
