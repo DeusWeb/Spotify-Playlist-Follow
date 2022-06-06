@@ -26,6 +26,7 @@ Spotify-Playlist-Follow like all the playlists you want on spotify!
 * <a href="https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe">Python3</a>
 * `git clone https://github.com/DeusWeb/Spotify-Playlist-Follow/`
 * `pip install -U -r modules.txt`
+* <a href="https://github.com/useragents/Proxyless-Spotify-Follow-Bot">Credits !</a>
 <br><br>
 
 -----
