@@ -3,7 +3,7 @@
 -----
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/978420636953223198/983407968689221652/antoine-dore-foot-chill-gif.gif?", width="500", height="500">
+<img src="https://cdn.discordapp.com/attachments/978420636953223198/983407968689221652/antoine-dore-foot-chill-gif.gif", width="500", height="500">
 </p>
 
 -----
