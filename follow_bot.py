@@ -1,3 +1,4 @@
+# script base https://github.com/useragents/Proxyless-Spotify-Follow-Bot
 try:
     import requests, random, string
 except ImportError:
