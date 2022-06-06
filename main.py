@@ -33,7 +33,7 @@ counter = 0
 proxies = []
 proxy_counter = 0
 print(Fore.LIGHTRED_EX + banner)
-print(f"\n{Fore.LIGHTYELLOW_EX}--------------------------------------------------------\n{Fore.RESET}[{Fore.MAGENTA}~{Fore.RESET}]{Fore.LIGHTMAGENTA_EX} Spotify Playlist ID :{Fore.RESET}")
+print(f"\n{Fore.LIGHTYELLOW_EX}--------------------------------------------------------\n{Fore.RESET}[{Fore.MAGENTA}~{Fore.RESET}]{Fore.LIGHTMAGENTA_EX} Spotify Playlist ID ex (5rKVRN1nBDhlw1m1q23d49):{Fore.RESET}")
 spotify_profile = str(input(f"{Fore.LIGHTRED_EX}\n[>]{Fore.RESET} "))
 print(f"\n{Fore.LIGHTYELLOW_EX}--------------------------------------------------------\n{Fore.RESET}[{Fore.MAGENTA}~{Fore.RESET}]{Fore.LIGHTMAGENTA_EX} Threads (default = 100) : {Fore.RESET}")
 threads = int(input(f"{Fore.LIGHTRED_EX}\n[>]{Fore.RESET} "))
